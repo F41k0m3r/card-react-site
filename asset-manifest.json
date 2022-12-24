@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/card-react-site/static/css/main.fc96bc39.css",
+    "main.js": "/card-react-site/static/js/main.5a323dbc.js",
+    "static/media/bg-main-desktop.png": "/card-react-site/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/card-react-site/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/card-react-site/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/card-react-site/index.html",
+    "static/media/card-logo.svg": "/card-react-site/static/media/card-logo.8ca9036515954c3f8191.svg",
+    "main.fc96bc39.css.map": "/card-react-site/static/css/main.fc96bc39.css.map",
+    "main.5a323dbc.js.map": "/card-react-site/static/js/main.5a323dbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc96bc39.css",
+    "static/js/main.5a323dbc.js"
+  ]
+}
